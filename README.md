@@ -6,6 +6,7 @@ This repository contains a machine learning mini project focused on predicting e
 
 .
 ├── EmployeeMiniProject.ipynb # Main Jupyter notebook with all ML steps
+
 ├── README.md # Project overview and instructions
 
 ## 📌 Project Objective
@@ -37,7 +38,8 @@ The dataset used contains features relevant to employee demographics, job roles,
 
 1. Clone the repository:
 
-git clone https://github.com/tanishqrajpuria/employee-ml-project.git
+git clone [https://github.com/tanishqrajpuria/employee-ml-project.git](https://github.com/tanishqrajpuria/ML_MiniProject.git)
+
 cd employee-ml-project
 
 2. Install dependencies:
